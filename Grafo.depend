@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1511928474 source:c:\users\matheus\downloads\grafo\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"grafo.h"
+	"fila.h"
+	"pilha.h"
+
+1511928615 c:\users\matheus\downloads\grafo\grafo.h
+	<stdio.h>
+	<stdlib.h>
+
+1510442700 source:c:\users\matheus\downloads\grafo\fila.c
+	"fila.h"
+
+1510441670 c:\users\matheus\downloads\grafo\fila.h
+	<stdio.h>
+
+1511928433 source:c:\users\matheus\downloads\grafo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"grafo.h"
+
+1510442696 source:c:\users\matheus\downloads\grafo\pilha.c
+	"pilha.h"
+
+1510441674 c:\users\matheus\downloads\grafo\pilha.h
+	<stdio.h>
+
